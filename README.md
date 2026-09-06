@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Enterprise Multi-Agent Orchestrator
 
 [![CI & Agent Graph Evaluation](https://github.com/aiwithsunnyuk/enterprise-multi-agent-orchestrator/actions/workflows/ci.yml/badge.svg)](https://github.com/aiwithsunnyuk/enterprise-multi-agent-orchestrator/actions)
